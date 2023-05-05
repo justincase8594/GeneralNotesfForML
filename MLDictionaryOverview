@@ -1,0 +1,30 @@
+This file contains basic definitions to reference back to for ML, AI and the data analysis that comes with it. these definitions are my human, less boring take
+on how to explain these concepts.
+
+
+Machine learning - using a computer or machine to just do fancy math to help predict patterns that may or may not be useful given a data set to run the fancy math on.
+
+AI - the perception of a machine (computer) being able to perform tasks that normally require human intervention using fancy math and assigning the machine ordered
+tasks. (sorry to burst your bubble, but it's not as complicated as you think. Although it's still pretty awesome.)
+
+
+supervised learning - using existing data with input and outputs(corret answers) to predict future outputs.
+This can also be classified into 2 categories:
+    Classification - where your data is seperated into 2 or more classes and you are trying to sort
+    your inputs into however many classes you have. 
+    EX: does my freind X have a dog, a cat, or neither? 
+    we would use the classes 'has_a_dog', 'has a cat', and 'i_have_a_sad_lonely_friend'
+    to classify what friend has what type of pet.
+    
+    regression - use this when the desired outputs(correct answers) are "continuous"
+    EX: prediction of somones index finger length based on their height and weight.
+    EX: prediction of someones savings account based on how many kids they have and what age they are.
+    
+unsupervised learning - using data that contains only inputs with no outputs(correct answers), and trying to lump
+data points together using patterns and proximity to make up your own answers and conclusions.
+EX: you own amazon and want to findout what customers made similar product purchases. you would assign customers
+to different clusters(a "label" you put on data), and accidentally find out that you found a cluster of customers
+that don't love their mothers becaus ethey didnt't buy mothers day gifts with their amazon purchases.
+
+
+    
